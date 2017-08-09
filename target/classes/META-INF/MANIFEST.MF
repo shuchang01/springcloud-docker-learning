@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springcloud-docker-learning
+Implementation-Version: 1.0.0
+Built-By: shangpan
+Implementation-Vendor-Id: com.chris.microservice
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/springcloud-
+ docker-learning/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
